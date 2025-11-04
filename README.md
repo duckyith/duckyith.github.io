@@ -6,55 +6,55 @@ The purpose of this website is to track and display my progress in projects and 
 ## Projects and links
 
 React website, multiplayered web game: Out Of Line
-•	https://startup.outofline.click
-•	Game where a group of players draw from prompts and then vote on imposters
-•	Hosted on a server provided by AWS
-•	Began with just html pages
-•	added CSS
-•	Reformatted to React
-•	Added JavaScript Functionality
-•	Planned to use Services, Websockets and APIs to improve
-•	Currently in active development
+- https://startup.outofline.click
+- Game where a group of players draw from prompts and then vote on imposters
+- Hosted on a server provided by AWS
+- Began with just html pages
+- added CSS
+- Reformatted to React
+- Added JavaScript Functionality
+- Planned to use Services, Websockets and APIs to improve
+- Currently in active development
 
 Github with ReadMe for more info on React Website game + projects
-•	https://github.com/duckyith/startup
-•	Code history and extensive break down in Repository
+- https://github.com/duckyith/startup
+- Code history and extensive break down in Repository
 
 Tic Tac Toe Experiment, practice with object oriented code
-•	https://github.com/duckyith/ticTacToeExperiment
-•	Question: when playing against an AI that will always see forced moves but otherwise plays random, what is the optimal way to play
-•	Build TicTacToe game in Python (Google Colab)
-•	Built AI to play against
-•	Made a modified AI that plays it self in all possibilities from a given state and reports number of wins, losses and ties
-•	Includes ReadMe with analysis
-•	Plans to make more advanced AI that will report best path from a state
+- https://github.com/duckyith/ticTacToeExperiment
+- Question: when playing against an AI that will always see forced moves but otherwise plays random, what is the optimal way to play
+- Build TicTacToe game in Python (Google Colab)
+- Built AI to play against
+- Made a modified AI that plays it self in all possibilities from a given state and reports number of wins, losses and ties
+- Includes ReadMe with analysis
+- Plans to make more advanced AI that will report best path from a state
 
 Linked in Profile
-•	https://www.linkedin.com/in/brady-scott-914074385/
+- https://www.linkedin.com/in/brady-scott-914074385/
 
 ## All Relevent Job experience
 
 Resident Assistant – BYU Housing (most recent)
 Aug 2024 – Apr 2025 | Provo, UT
-•	Mentored freshman students living on campus
-•	Identified, assessed, reported on, planned for and executed small- and large-scale activities to address the needs of the residents
-•	Acted as a mediator for contentious residents
+- Mentored freshman students living on campus
+- Identified, assessed, reported on, planned for and executed small- and large-scale activities to address the needs of the residents
+- Acted as a mediator for contentious residents
 
 Teacher’s Assistant – BYU Physics & Astronomy
 Jan 2024 – Apr 2024 | Provo, UT
-•	Programmed and operated planetarium star shows (Digistar & ZEISS systems).
-•	Guided students through labs, demos, and telescope imaging.
-•	Gained experience troubleshooting and managing complex technical systems for shows
+- Programmed and operated planetarium star shows (Digistar & ZEISS systems).
+- Guided students through labs, demos, and telescope imaging.
+- Gained experience troubleshooting and managing complex technical systems for shows
 
 Missionary, The Church of Jesus Christ of Latter-day Saints
 Jun 2020 – May 2022 | Bogotá, Colombia
-•	Processed and managed visas, passports, and flights for 170+ international representatives as Migrations Secretary.
-•	Developed strong organizational, cross-cultural communication, and problem-solving skills.
-•	Became fluent in Spanish.
+- Processed and managed visas, passports, and flights for 170+ international representatives as Migrations Secretary.
+- Developed strong organizational, cross-cultural communication, and problem-solving skills.
+- Became fluent in Spanish.
 
 Intern – US Synthetic (diamond drill bit insert manufacturing company)
 Jan 2019 – May 2019 | Orem, UT
-•	Utilized CAD and 3D modeling skills in engineering project to improve corrosion resistance
+- Utilized CAD and 3D modeling skills in engineering project to improve corrosion resistance
 
 ## Educational Background
 
