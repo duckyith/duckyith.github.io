@@ -7,10 +7,10 @@ LinkedIn and Github
 
 The purpose of this website is to track and display my progress in projects and provide my background. I started as a scratch coder making silly games years ago and dabbled in some python. Following a major switch a couple years ago for Computer science I have since imporved my programming skills dramatically and wanted to start tracking my progress and monitering my projects. I love solving all sorts of problems with code but game making (board or video games) has always been the side I'm most passionate about. I plan to soon (after I get a little bit more experience and time) make my own game and in the meantime, graduate from BYU learning as much as I can along the way.
 
-## Projects
+## React website
 
-React website, multiplayered web game: Out Of Line
-- https://startup.outofline.click
+https://startup.outofline.click
+- multiplayered web game: Out Of Line
 - Game where a group of players draw from prompts and then vote on imposters
 - Hosted on a server provided by AWS
 - Began with just html pages
@@ -26,8 +26,10 @@ Github with ReadMe for more info on React Website game + projects
 
 ![](Startup.png)
 
-Tic Tac Toe Experiment, practice with object oriented code
-- https://github.com/duckyith/ticTacToeExperiment
+## Tic Tac Toe Experiment
+
+https://github.com/duckyith/ticTacToeExperiment
+- practice with object oriented code
 - Question: when playing against an AI that will always see forced moves but otherwise plays random, what is the optimal way to play
 - Build TicTacToe game in Python (Google Colab)
 - Built AI to play against
@@ -37,7 +39,9 @@ Tic Tac Toe Experiment, practice with object oriented code
 
 ![](TicTacToe.png)
 
-Youtube channel side project, Minecraft Speedrunning, video editing
+## Content Creation side project
+
+Minecraft Speedrunning, video editing
 - https://www.youtube.com/@duckyith
 - https://www.twitch.tv/duckyith
 - https://discord.gg/PB9kCufB
