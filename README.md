@@ -1,9 +1,13 @@
 # username: duckyith
-Programmer, game developer
+Programmer, game developer (Provo, UT • (808) 940-2292 • bradyith@gmail.com)
+
+LinkedIn and Github
+- https://www.linkedin.com/in/brady-scott-914074385/
+- https://github/duckyith
 
 The purpose of this website is to track and display my progress in projects and provide my background. I started as a scratch coder making silly games years ago and dabbled in some python. Following a major switch a couple years ago for Computer science I have since imporved my programming skills dramatically and wanted to start tracking my progress and monitering my projects. I love solving all sorts of problems with code but game making (board or video games) has always been the side I'm most passionate about. I plan to soon (after I get a little bit more experience and time) make my own game and in the meantime, graduate from BYU learning as much as I can along the way.
 
-## Projects and links
+## Projects
 
 React website, multiplayered web game: Out Of Line
 - https://startup.outofline.click
@@ -31,7 +35,7 @@ Tic Tac Toe Experiment, practice with object oriented code
 - Includes ReadMe with analysis
 - Plans to make more advanced AI that will report best path from a state
 
-![Design image](TicTacToe.png)
+![](TicTacToe.png)
 
 Youtube channel side project, Minecraft Speedrunning, video editing
 - https://www.youtube.com/@duckyith
@@ -42,10 +46,7 @@ Youtube channel side project, Minecraft Speedrunning, video editing
 - Never finished all of my tutorials but I still get messages from players who need help and plan to return some day
 - also worked on a speedrun mod for a bit that is also unfinished and I would like to return to
 
-![Design image](duckyithPlatforms.png)
-
-Linked in Profile
-- https://www.linkedin.com/in/brady-scott-914074385/
+![](duckyithPlatforms.png)
 
 ## All Relevent Job experience
 
