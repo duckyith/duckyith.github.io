@@ -19,7 +19,8 @@ React website, multiplayered web game: Out Of Line
 Github with ReadMe for more info on React Website game + projects
 - https://github.com/duckyith/startup
 - Code history and extensive break down in Repository
-- ![Design image](Startup.png)
+
+![Design image](Startup.png)
 
 Tic Tac Toe Experiment, practice with object oriented code
 - https://github.com/duckyith/ticTacToeExperiment
@@ -29,6 +30,7 @@ Tic Tac Toe Experiment, practice with object oriented code
 - Made a modified AI that plays it self in all possibilities from a given state and reports number of wins, losses and ties
 - Includes ReadMe with analysis
 - Plans to make more advanced AI that will report best path from a state
+
 ![Design image](TicTacToe.png)
 
 Youtube channel side project, Minecraft Speedrunning, video editing
@@ -39,6 +41,7 @@ Youtube channel side project, Minecraft Speedrunning, video editing
 - Made a twitch, youtube, discord platform and grew to 100 followers on twitch with a few regulars and 10k views on my best video (not particularly impressive but for a quick side project for fun I'm proud of the progress I made and the platforms I built)
 - Never finished all of my tutorials but I still get messages from players who need help and plan to return some day
 - also worked on a speedrun mod for a bit that is also unfinished and I would like to return to
+
 ![Design image](duckyithPlatforms.png)
 
 Linked in Profile
