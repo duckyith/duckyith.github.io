@@ -20,7 +20,7 @@ Github with ReadMe for more info on React Website game + projects
 - https://github.com/duckyith/startup
 - Code history and extensive break down in Repository
 
-![](Startup.png){width = 200px}
+![](Startup.png)
 
 Tic Tac Toe Experiment, practice with object oriented code
 - https://github.com/duckyith/ticTacToeExperiment
