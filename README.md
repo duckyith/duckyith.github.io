@@ -1,2 +1,69 @@
-# duckyith.github.io
-Github Pages Website
+# username: duckyith
+Programmer, game developer
+
+The purpose of this website is to track and display my progress in projects and provide my background. I started as a scratch coder making silly games years ago and dabbled in some python. Following a major switch a couple years ago for Computer science I have since imporved my programming skills dramatically and wanted to start tracking my progress and monitering my projects. I love solving all sorts of problems with code but game making (board or video games) has always been the side I'm most passionate about. I plan to soon (after I get a little bit more experience and time) make my own game and in the meantime, graduate from BYU learning as much as I can along the way.
+
+## Projects and links
+
+React website, multiplayered web game: Out Of Line
+•	https://startup.outofline.click
+•	Game where a group of players draw from prompts and then vote on imposters
+•	Hosted on a server provided by AWS
+•	Began with just html pages
+•	added CSS
+•	Reformatted to React
+•	Added JavaScript Functionality
+•	Planned to use Services, Websockets and APIs to improve
+•	Currently in active development
+
+Github with ReadMe for more info on React Website game + projects
+•	https://github.com/duckyith/startup
+•	Code history and extensive break down in Repository
+
+Tic Tac Toe Experiment, practice with object oriented code
+•	https://github.com/duckyith/ticTacToeExperiment
+•	Question: when playing against an AI that will always see forced moves but otherwise plays random, what is the optimal way to play
+•	Build TicTacToe game in Python (Google Colab)
+•	Built AI to play against
+•	Made a modified AI that plays it self in all possibilities from a given state and reports number of wins, losses and ties
+•	Includes ReadMe with analysis
+•	Plans to make more advanced AI that will report best path from a state
+
+Linked in Profile
+•	https://www.linkedin.com/in/brady-scott-914074385/
+
+## All Relevent Job experience
+
+Resident Assistant – BYU Housing (most recent)
+Aug 2024 – Apr 2025 | Provo, UT
+•	Mentored freshman students living on campus
+•	Identified, assessed, reported on, planned for and executed small- and large-scale activities to address the needs of the residents
+•	Acted as a mediator for contentious residents
+
+Teacher’s Assistant – BYU Physics & Astronomy
+Jan 2024 – Apr 2024 | Provo, UT
+•	Programmed and operated planetarium star shows (Digistar & ZEISS systems).
+•	Guided students through labs, demos, and telescope imaging.
+•	Gained experience troubleshooting and managing complex technical systems for shows
+
+Missionary, The Church of Jesus Christ of Latter-day Saints
+Jun 2020 – May 2022 | Bogotá, Colombia
+•	Processed and managed visas, passports, and flights for 170+ international representatives as Migrations Secretary.
+•	Developed strong organizational, cross-cultural communication, and problem-solving skills.
+•	Became fluent in Spanish.
+
+Intern – US Synthetic (diamond drill bit insert manufacturing company)
+Jan 2019 – May 2019 | Orem, UT
+•	Utilized CAD and 3D modeling skills in engineering project to improve corrosion resistance
+
+## Educational Background
+
+Brigham Young University — B.S. in Computer Science (in progress)
+Aug 2022 – Present | GPA: 3.0
+Relevant Coursework: Data Structures & Algorithms, Operating Systems, Software Engineering, Computer Architecture, Linear Algebra, Physics
+
+Kahuku High and Intermediate School — Kahuku, Hawaii
+2016 – 2020
+
+Provo High School — Provo, Utah (1-year sabbatical Junior Year)
+2018-2019
