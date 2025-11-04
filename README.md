@@ -29,6 +29,15 @@ Tic Tac Toe Experiment, practice with object oriented code
 - Includes ReadMe with analysis
 - Plans to make more advanced AI that will report best path from a state
 
+Youtube channel side project, Minecraft Speedrunning, video editing
+- https://www.youtube.com/@duckyith
+- https://www.twitch.tv/duckyith
+- https://discord.gg/PB9kCufB
+- Saw a need for easy to undertand, all in one place begginner tutorials for speedrunning minecraft (something I was passionate about and had trouble finding)
+- Made a twitch, youtube, discord platform and grew to 100 followers on twitch with a few regulars and 10k views on my best video (not particularly impressive but for a quick side project for fun I'm proud of the progress I made and the platforms I built)
+- Never finished all of my tutorials but I still get messages from players who need help and plan to return some day
+- also worked on a speedrun mod for a bit that is also unfinished and I would like to return to
+
 Linked in Profile
 - https://www.linkedin.com/in/brady-scott-914074385/
 
