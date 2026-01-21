@@ -54,37 +54,37 @@ Minecraft Speedrunning, video editing
 
 ## All Relevent Job experience
 
-Software Engineer Intern – Leidos (future)
+Software Engineer Intern – Leidos (future) |
 May 2026 – Aug 2026 | Omaha, NE
 - Made contact at BYU career fair
 - Interviewed with the team which included a programming test
 - Hired in January
 
-Fast food Team Lead – Quickgreens (most recent)
+Fast food Team Lead – Quickgreens (most recent) |
 Jan 2026 – current | Saratoga, UT
 - Selected as part of the leadership team to open the restaurant for the first time
 - Handled heavy rushes including an openning influencer event with 100+ invited guests
 - Trained and directed new employees
 
-Resident Assistant – BYU Housing
+Resident Assistant – BYU Housing |
 Aug 2024 – Apr 2025 | Provo, UT
 - Mentored freshman students living on campus
 - Identified, assessed, reported on, planned for and executed small- and large-scale activities to address the needs of the residents
 - Acted as a mediator for contentious residents
 
-Teacher’s Assistant – BYU Physics & Astronomy
+Teacher’s Assistant – BYU Physics & Astronomy |
 Jan 2024 – Apr 2024 | Provo, UT
 - Programmed and operated planetarium star shows (Digistar & ZEISS systems).
 - Guided students through labs, demos, and telescope imaging.
 - Gained experience troubleshooting and managing complex technical systems for shows
 
-Missionary, The Church of Jesus Christ of Latter-day Saints
+Missionary – The Church of Jesus Christ of Latter-day Saints |
 Jun 2020 – May 2022 | Bogotá, Colombia
 - Processed and managed visas, passports, and flights for 170+ international representatives as Migrations Secretary.
 - Developed strong organizational, cross-cultural communication, and problem-solving skills.
 - Became fluent in Spanish.
 
-Intern – US Synthetic (diamond drill bit insert manufacturing company)
+Intern – US Synthetic (diamond drill bit insert manufacturing company) |
 Jan 2019 – May 2019 | Orem, UT
 - Utilized CAD and 3D modeling skills in engineering project to improve corrosion resistance
 
