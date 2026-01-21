@@ -54,7 +54,19 @@ Minecraft Speedrunning, video editing
 
 ## All Relevent Job experience
 
-Resident Assistant – BYU Housing (most recent)
+Software Engineer Intern – Leidos (future)
+May 2026 – Aug 2026 | Omaha, NE
+- Made contact at BYU career fair
+- Interviewed with the team which included a programming test
+- Hired in January
+
+Fast food Team Lead – Quickgreens (most recent)
+Jan 2026 – current | Saratoga, UT
+- Selected as part of the leadership team to open the restaurant for the first time
+- Handled heavy rushes including an openning influencer event with 100+ invited guests
+- Trained and directed new employees
+
+Resident Assistant – BYU Housing
 Aug 2024 – Apr 2025 | Provo, UT
 - Mentored freshman students living on campus
 - Identified, assessed, reported on, planned for and executed small- and large-scale activities to address the needs of the residents
